@@ -1,3 +1,7 @@
+# MIT License 
+# Reference : https://github.com/Joeclinton1/google-images-download
+
+
 from google_images_download import google_images_download 
 from tkinter import *
 from tkinter import filedialog
